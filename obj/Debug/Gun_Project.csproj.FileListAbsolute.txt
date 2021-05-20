@@ -1,0 +1,10 @@
+C:\Users\atind\source\repos\Gun_Project\bin\Debug\Gun_Project.exe.config
+C:\Users\atind\source\repos\Gun_Project\bin\Debug\Gun_Project.exe
+C:\Users\atind\source\repos\Gun_Project\bin\Debug\Gun_Project.pdb
+C:\Users\atind\source\repos\Gun_Project\obj\Debug\Gun_Project.csprojAssemblyReference.cache
+C:\Users\atind\source\repos\Gun_Project\obj\Debug\Gun_Project.Form1.resources
+C:\Users\atind\source\repos\Gun_Project\obj\Debug\Gun_Project.Properties.Resources.resources
+C:\Users\atind\source\repos\Gun_Project\obj\Debug\Gun_Project.csproj.GenerateResource.cache
+C:\Users\atind\source\repos\Gun_Project\obj\Debug\Gun_Project.csproj.CoreCompileInputs.cache
+C:\Users\atind\source\repos\Gun_Project\obj\Debug\Gun_Project.exe
+C:\Users\atind\source\repos\Gun_Project\obj\Debug\Gun_Project.pdb
